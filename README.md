@@ -87,3 +87,8 @@
 ## Writing Dissertation
 
 理論上，如果前面的步驟都做得很好，寫博士論文不會是問題，因為它只是一個完整的整理而已。
+
+## 資源整理
+
+-[research-advice]https://github.com/smilli/research-advice)
+-[awesome-thesis](https://github.com/Po-Jen/awesome-thesis)
