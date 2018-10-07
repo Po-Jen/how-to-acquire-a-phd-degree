@@ -90,5 +90,5 @@
 
 ## 資源整理
 
--[research-advice]https://github.com/smilli/research-advice)
--[awesome-thesis](https://github.com/Po-Jen/awesome-thesis)
+- [research-advice](https://github.com/smilli/research-advice)
+- [awesome-thesis](https://github.com/Po-Jen/awesome-thesis)
