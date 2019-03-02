@@ -95,4 +95,4 @@
 - [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 - [How to Get Your CVPR Paper Rejected：Prof. Ming Hsuan Yang](https://www.youtube.com/watch?v=jp_TGMU4ASI)
   - [slides](http://faculty.ucmerced.edu/mhyang/course/eecs286-2016/lectures/How%20to%20get%20your%20CVPR%20paper%20rejected.pptx)
-- [頂尖AI實驗室建立經驗分享：孫民] (https://www.youtube.com/watch?v=51Nw2eHR48c)
+- [頂尖AI實驗室建立經驗分享：孫民](https://www.youtube.com/watch?v=51Nw2eHR48c)
